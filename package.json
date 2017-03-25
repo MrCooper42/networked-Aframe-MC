@@ -1,0 +1,17 @@
+{
+    "name": "networked-aframe",
+    "version": "1.0.0",
+    "description": "testing networked-aframe",
+    "scripts": {
+        "start": "node ./server/server.js"
+    },
+    "keywords": [
+        "networked",
+        "aframe"
+    ],
+    "author": "Matthew Cooper",
+    "license": "ISC",
+    "dependencies": {
+        "networked-aframe": "^0.1.0"
+    }
+}
